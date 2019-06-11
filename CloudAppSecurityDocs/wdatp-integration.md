@@ -49,8 +49,7 @@ Microsoft Cloud App Security uses the native integration with Microsoft Defender
 
 - Microsoft Cloud App Security license
 - Microsoft Defender ATP license
-- Windows 10 machines running version 1809 or later
-- Toggle on **Preview features** to enable this feature in Cloud App Security
+- Windows 10 machines running version 1903 or later, 1809 (KB 4482887); 1803 (KB 4489894); 1709 (KB 4489890) 
 
 ## How it works
 
